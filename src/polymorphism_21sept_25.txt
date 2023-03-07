@@ -1,0 +1,58 @@
+OOp's Features:-
+------------------
+1) class
+2) object
+3) encapsulation
+4) inhertitance
+5) polymorphism
+6) abstraction
+-------------------------------------------------------------
+Polymorphism :- Ability to take more than one form(method).
+--------------
+
+5 Team
+
+Method Overloadding
+
+addFun()-----addition
+
+addFun(int no1,int no2)---addition
+
+addFun(int no1,int no2)// C.E
+
+addFun(float no1,float no2)---addition
+
+addFun(int no1,int no2,int no3)---addition
+
+
+
+		Type of Polymorphism 
+		---------------------
+1) CompileTime			2) RunTime
+   StaticBinding		   DynamicBinding
+   EarlyBinding			   LateBinding 	
+Ex:-				Ex:-
+-----				-----
+---> Method Overloadding		---> Method Overrdding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
