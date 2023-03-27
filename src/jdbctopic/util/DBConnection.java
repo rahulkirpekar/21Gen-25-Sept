@@ -10,7 +10,6 @@ import java.util.Properties;
 
 public class DBConnection 
 {
-	
 	// 2) Db Connection method
 	public static Connection getConnection() 
 	{
